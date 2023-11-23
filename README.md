@@ -1,2 +1,2 @@
 # Relatorios MMC
- Diciplina de MMC
+ Disciplina de MMC
